@@ -42,8 +42,8 @@
 
 ### ☁️ GitHub Activity  
 
-<p align="center"
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&bg_color=fff0f6&color=f4acc7&line=f8bbd0&point=f48fb1&area_color=fce4ec&area=true&hide_border=true" alt="Activity Graph" />
+p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaafizhotusSalsabiila&theme=pink&bg_color=fff0f6&color=ff8fab&line=ffb6c1&point=ff6f91&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 --->
